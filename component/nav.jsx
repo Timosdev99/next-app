@@ -28,7 +28,7 @@ const nav = () => {
             </Link>
 
             <button type='button' onClick={signOut} className='outline_btn'>
-              Sign Out
+              Sign Out  
             </button>
             </div>): (
                 <>
